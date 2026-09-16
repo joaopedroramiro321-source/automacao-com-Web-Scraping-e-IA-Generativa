@@ -5,7 +5,7 @@ Como funciona:
 
  🔹 O usuário informa a URL de um site
  
- 🔹 A aplicação faz o scraping do HTML com Requests e BeautifulSoup
+ 🔹 A aplicação faz o scraping do HTML com Requests
  
  🔹 O conteúdo é enviado ao modelo Gemini 2.5 Flash, que gera um resumo focado no texto da página
  
